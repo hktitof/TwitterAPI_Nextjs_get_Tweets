@@ -5,7 +5,7 @@ export default function Home() {
   
   return (
     <>
-      <div className="text-black">the key is {process.env.API_KEY}</div>  
+      <div className="text-black">your secret key is : {process.env.API_KEY}</div>  
     </>
   )
 }
