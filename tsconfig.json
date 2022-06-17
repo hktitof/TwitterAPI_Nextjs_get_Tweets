@@ -1,5 +1,9 @@
 {
   "compilerOptions": {
+    "baseUrl": ".", // This must be specified if "paths" is.
+    "paths": {
+      "express": ["node_modules/express/lib/express"] // This mapping is relative to "baseUrl"
+    },
     "target": "es5",
     "lib": [
       "dom",
