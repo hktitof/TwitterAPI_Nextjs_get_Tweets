@@ -1,4 +1,4 @@
-Readme will be edited later, for now "This is  simple project thta uses Twitter API to fetch tweets and display using different settings"
+Readme will be edited later, for now "This is  simple project that uses Twitter API to fetch tweets and display using different settings, there isn't no UI for now"
 
 Technologies : Next js, TypeScript, Tailwind css, Storybook and webpack
 
